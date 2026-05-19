@@ -1,0 +1,382 @@
+{
+  "navbar": {
+    "logoTagline": "FitLife Gym",
+    "navLinks": [
+      {
+        "href": "#about",
+        "label": "About"
+      },
+      {
+        "href": "#services",
+        "label": "Services"
+      },
+      {
+        "href": "#membership",
+        "label": "Membership"
+      },
+      {
+        "href": "#testimonials",
+        "label": "Testimonials"
+      },
+      {
+        "href": "#trainers",
+        "label": "Trainers"
+      }
+    ],
+    "ctaLabel": "Join Now"
+  },
+  "categories": [
+    {
+      "label": "Build Strength",
+      "title": "Strength &\nConditioning",
+      "img": "https://source.unsplash.com/1600x900/?salon%2Cbeauty%2Celegant&sig=0",
+      "desc": "Comprehensive strength training programs using state-of-the-art equipment for muscle building and power development."
+    },
+    {
+      "label": "High Energy",
+      "title": "Group Fitness\nClasses",
+      "img": "https://source.unsplash.com/1600x900/?spa%2Cwellness%2Crelaxing&sig=1",
+      "desc": "Dynamic group classes including HIIT, Zumba, Aerobics and CrossFit led by certified instructors in a motivating atmosphere."
+    },
+    {
+      "label": "Mind & Body",
+      "title": "Yoga &\nMeditation",
+      "img": "https://source.unsplash.com/1600x900/?skincare%2Cbeauty%2Cclean&sig=2",
+      "desc": "Holistic yoga and meditation sessions designed to improve flexibility, balance, mental clarity and inner peace."
+    }
+  ],
+  "theme": {
+    "primary": "#1a1a2e",
+    "primaryDark": "#1a1a2e",
+    "secondary": "#1B2A3B",
+    "secondaryLight": "#243550"
+  },
+  "branding": {
+    "logoUrl": "",
+    "logoText": "FitLife Gym",
+    "headingFont": "Syne",
+    "bodyFont": "Inter",
+    "selectedPalette": "steel-midnight"
+  },
+  "hero": {
+    "badge": "PREMIUM FITNESS CENTER",
+    "title": "Transform Your Body,\nTransform Your Life.",
+    "subtitle": "State-of-the-art equipment, expert trainers, and endless possibilities.",
+    "phone": "+91 99887 76655",
+    "ctaText": "Get in Touch",
+    "stats": [
+      {
+        "num": "24/7",
+        "label": "Access"
+      },
+      {
+        "num": "50+",
+        "label": "Classes/Week"
+      },
+      {
+        "num": "100+",
+        "label": "Members"
+      }
+    ]
+  },
+  "about": {
+    "sectionLabel": "About FitLife Gym",
+    "heading": "Your Complete Fitness Destination in Mumbai.",
+    "description": "At FitLife Gym, we believe fitness is a journey, not a destination. Located in the heart of Malad West at Inorbit Mall, we've created a premium fitness sanctuary equipped with cutting-edge machines, expert certified trainers, and a supportive community. Whether you're looking to build strength, improve cardiovascular health, or achieve inner peace through yoga, our comprehensive programs and 24/7 access ensure you can pursue your fitness goals on your schedule. Join thousands of members who have already transformed their lives with FitLife.",
+    "checklist": [
+      "State-of-the-art fitness equipment and technology",
+      "Certified personal trainers with proven track records",
+      "Diverse group classes and personalized programs"
+    ],
+    "vision": "To be Mumbai's most trusted fitness center, empowering individuals to achieve their health and wellness goals through expert guidance, premium facilities, and a thriving community.",
+    "mission": "To provide accessible, results-driven fitness solutions combined with nutrition counseling and expert coaching that inspires lasting lifestyle transformation."
+  },
+  "why": {
+    "sectionLabel": "Why Choose FitLife?",
+    "heading": "Reasons to Join FitLife Gym",
+    "items": [
+      {
+        "title": "24/7 Access with Key Card"
+      },
+      {
+        "title": "Certified Personal Trainers"
+      },
+      {
+        "title": "No Joining Fee This Month"
+      },
+      {
+        "title": "Free Trial Session"
+      },
+      {
+        "title": "Affordable Memberships from ₹999/Month"
+      },
+      {
+        "title": "Prime Location at Inorbit Mall"
+      }
+    ]
+  },
+  "certifications": {
+    "sectionLabel": "Our Credentials & Standards",
+    "heading": "Excellence You Can Trust",
+    "items": [
+      {
+        "num": "01",
+        "title": "All Trainers are Certified Fitness Professionals"
+      },
+      {
+        "num": "02",
+        "title": "ISO-Certified Safety and Hygiene Standards"
+      },
+      {
+        "num": "03",
+        "title": "Regular Equipment Maintenance and Calibration"
+      }
+    ]
+  },
+  "services": {
+    "sectionLabel": "Our Services",
+    "heading": "Comprehensive Fitness Solutions",
+    "items": [
+      {
+        "title": "Personal Training",
+        "desc": "One-on-one coaching from certified trainers tailored to your specific fitness goals and current fitness level."
+      },
+      {
+        "title": "Nutrition Counseling",
+        "desc": "Expert dietary guidance and meal planning to complement your training program and accelerate results."
+      },
+      {
+        "title": "Group Fitness Classes",
+        "desc": "High-energy classes including HIIT, Zumba, Aerobics, and CrossFit conducted by experienced instructors throughout the week."
+      }
+    ]
+  },
+  "brands": [
+    "Life Fitness Equipment",
+    "Technogym",
+    "Matrix Fitness",
+    "Hammer Strength",
+    "Precor",
+    "Cybex",
+    "Freemotion",
+    "Bowflex",
+    "Schwinn",
+    "Rogue Fitness",
+    "Concept2",
+    "StairMaster",
+    "Peloton",
+    "TRX",
+    "Dynavox"
+  ],
+  "caseStudies": [
+    {
+      "num": "01",
+      "title": "Corporate Wellness Program",
+      "client": "Client: Arjun (IT Professional)",
+      "project": "6-Month Transformation",
+      "desc": "Arjun joined FitLife with minimal fitness experience and a desk job lifestyle. Through personalized training 4x per week, group HIIT classes, and nutrition counseling, he lost 12 kg, increased strength by 40%, and improved his energy levels significantly. His success story motivated 15+ colleagues to join our gym."
+    },
+    {
+      "num": "02",
+      "title": "Weight Loss Success",
+      "client": "Client: Priya (Marketing Executive)",
+      "project": "Post-Maternity Fitness",
+      "desc": "After childbirth, Priya aimed to regain her pre-pregnancy fitness. Our certified trainers designed a safe, progressive program combining strength training and cardio. Within 8 months, she achieved her goal weight, rebuilt core strength, and became a regular attendee of our yoga and meditation sessions."
+    },
+    {
+      "num": "03",
+      "title": "Athletic Performance Enhancement",
+      "client": "Client: Vikram (Semi-Professional Cricketer)",
+      "project": "Cricket-Specific Conditioning",
+      "desc": "Vikram required sport-specific strength and conditioning. Our trainers developed a customized program focusing on explosive power, agility, and injury prevention. His performance metrics improved by 35%, and he credits FitLife's training for his recent selection to the state team."
+    },
+    {
+      "num": "04",
+      "title": "Senior Wellness Initiative",
+      "client": "₹2 Lakh Package Deal",
+      "project": "Customized Senior Fitness Program",
+      "desc": "A group of 12 seniors aged 60+ joined FitLife through our special wellness package. With modified exercises, balance training, and meditation classes, they've improved flexibility, bone density, and overall quality of life. Satisfaction rate: 100%."
+    },
+    {
+      "num": "05",
+      "title": "Strength Building Champion",
+      "client": "3-Month Progress",
+      "project": "Powerlifting Development",
+      "desc": "Rahul, a beginner in strength sports, trained with our powerlifting specialist. In 3 months, his bench press increased by 50 kg, squat by 70 kg, and deadlift by 80 kg. He now competes at the state level and continues as our premium member."
+    },
+    {
+      "num": "06",
+      "title": "Wellness Community Builder",
+      "client": "6-Month Partnership",
+      "project": "Group Class Coordinator",
+      "desc": "Sneha started as a member and became our group fitness instructor after certification. She now leads 12 classes weekly, builds community engagement, and has personally helped 50+ members achieve their fitness goals through her dynamic teaching style."
+    }
+  ],
+  "clients": [
+    "TCS Mumbai",
+    "Infosys Malad Office",
+    "Deutsche Bank Team",
+    "HCL Technologies",
+    "Accenture Employees",
+    "HDFC Bank Staff",
+    "Axiata Digital Labs",
+    "Microsoft India",
+    "Amazon Prime Video",
+    "Flipkart Fitness Club",
+    "Google Workspace Members",
+    "Deloitte Consulting",
+    "EY Advisory",
+    "KPMG India"
+  ],
+  "contact": {
+    "sectionLabel": "Get In Touch",
+    "heading": "Ready to Start Your Fitness Journey?",
+    "subheading": "Visit us today for a free trial session, membership consultation, or to learn more about our programs and facilities.",
+    "phone": "+91 99887 76655",
+    "email": "hello@fitlifegym.in",
+    "address": "3rd Floor, Inorbit Mall, Malad West, Mumbai 400064",
+    "businessType": "Premium Fitness Center"
+  },
+  "footer": {
+    "brandName": "FitLife Gym",
+    "tagline": "Premium fitness center in Mumbai dedicated to transforming lives through expert training, state-of-the-art equipment, and supportive community. Open 24/7 for your convenience.",
+    "presentedBy": "Fitness Excellence Team",
+    "presentedEmail": "hello@fitlifegym.in",
+    "presentedPhone": "+91 99887 76655",
+    "copyright": "© 2026 FitLife Gym. All rights reserved.",
+    "ctaText": "Get in Touch"
+  },
+  "products": {
+    "sectionLabel": "Membership Plans",
+    "heading": "Flexible Fitness Packages",
+    "flat": [
+      {
+        "title": "Basic Monthly",
+        "desc": "₹999/month - 24/7 gym access with all equipment and facilities.",
+        "img": "https://source.unsplash.com/1600x900/?hair%2Csalon%2Cprofessional&sig=3"
+      },
+      {
+        "title": "Premium Monthly",
+        "desc": "₹1,499/month - Includes 2 personal training sessions and group classes.",
+        "img": "https://source.unsplash.com/1600x900/?makeup%2Cbeauty%2Cstudio&sig=4"
+      },
+      {
+        "title": "Elite Monthly",
+        "desc": "₹1,999/month - 4 personal training sessions, nutrition counseling, and all classes.",
+        "img": "https://source.unsplash.com/1600x900/?massage%2Cwellness%2Cserene&sig=5"
+      },
+      {
+        "title": "Quarterly Plan",
+        "desc": "₹2,499/quarter - Best value with 10% savings on membership costs.",
+        "img": "https://source.unsplash.com/1600x900/?fitness%2Cwellness%2Chealthy&sig=6"
+      }
+    ],
+    "tubular": [
+      {
+        "title": "Annual Membership",
+        "desc": "₹9,999/year - Unlimited access with 20% annual discount plus free trial.",
+        "img": "https://source.unsplash.com/1600x900/?yoga%2Cmindfulness%2Ccalm&sig=7"
+      },
+      {
+        "title": "Personal Training Package",
+        "desc": "₹5,000/month - 12 one-on-one sessions with certified trainers monthly.",
+        "img": "https://source.unsplash.com/1600x900/?salon%2Cbeauty%2Celegant&sig=0"
+      },
+      {
+        "title": "Couple Plan",
+        "desc": "₹1,699/month - For 2 members with shared gym access and benefits.",
+        "img": "https://source.unsplash.com/1600x900/?spa%2Cwellness%2Crelaxing&sig=1"
+      }
+    ],
+    "structural": [
+      {
+        "title": "Strength Training Program",
+        "desc": "6-week intensive program focusing on muscle building and power development.",
+        "img": "https://source.unsplash.com/1600x900/?skincare%2Cbeauty%2Cclean&sig=2"
+      },
+      {
+        "title": "Cardio & Fat Loss",
+        "desc": "Specialized program combining cardio, HIIT, and nutrition for rapid transformation.",
+        "img": "https://source.unsplash.com/1600x900/?hair%2Csalon%2Cprofessional&sig=3"
+      },
+      {
+        "title": "Yoga & Flexibility",
+        "desc": "8-week program improving flexibility, balance, and mental wellness through yoga.",
+        "img": "https://source.unsplash.com/1600x900/?makeup%2Cbeauty%2Cstudio&sig=4"
+      },
+      {
+        "title": "Athletic Performance",
+        "desc": "Sport-specific conditioning and strength enhancement for athletes.",
+        "img": "https://source.unsplash.com/1600x900/?massage%2Cwellness%2Cserene&sig=5"
+      },
+      {
+        "title": "Corporate Wellness",
+        "desc": "Bulk memberships and wellness programs designed for company teams.",
+        "img": "https://source.unsplash.com/1600x900/?fitness%2Cwellness%2Chealthy&sig=6"
+      },
+      {
+        "title": "Senior Fitness",
+        "desc": "Modified programs focused on mobility, strength, and health for 55+ age group.",
+        "img": "https://source.unsplash.com/1600x900/?yoga%2Cmindfulness%2Ccalm&sig=7"
+      }
+    ],
+    "roofing": [
+      {
+        "title": "Group Fitness Classes",
+        "desc": "Dynamic HIIT, Zumba, Aerobics, and CrossFit classes 50+ times weekly.",
+        "img": "https://source.unsplash.com/1600x900/?salon%2Cbeauty%2Celegant&sig=0"
+      },
+      {
+        "title": "Personal Yoga Sessions",
+        "desc": "One-on-one yoga coaching tailored to individual flexibility and wellness goals.",
+        "img": "https://source.unsplash.com/1600x900/?spa%2Cwellness%2Crelaxing&sig=1"
+      },
+      {
+        "title": "Meditation & Mindfulness",
+        "desc": "Guided meditation and breathwork sessions for stress relief and mental clarity.",
+        "img": "https://source.unsplash.com/1600x900/?skincare%2Cbeauty%2Cclean&sig=2"
+      },
+      {
+        "title": "Nutrition Counseling",
+        "desc": "Expert dietary planning and meal guidance to complement your fitness regimen.",
+        "img": "https://source.unsplash.com/1600x900/?hair%2Csalon%2Cprofessional&sig=3"
+      }
+    ],
+    "accessories": [
+      {
+        "title": "Locker & Towel Service",
+        "desc": "Secure lockers and complimentary fresh towels included with every membership.",
+        "img": "https://source.unsplash.com/1600x900/?makeup%2Cbeauty%2Cstudio&sig=4"
+      },
+      {
+        "title": "Shower & Changing Facilities",
+        "desc": "Modern, hygienic shower areas and spacious changing rooms for member convenience.",
+        "img": "https://source.unsplash.com/1600x900/?massage%2Cwellness%2Cserene&sig=5"
+      },
+      {
+        "title": "Premium Member Perks",
+        "desc": "Exclusive access to advanced equipment, priority class booking, and member events.",
+        "img": "https://source.unsplash.com/1600x900/?fitness%2Cwellness%2Chealthy&sig=6"
+      },
+      {
+        "title": "Mobile App Access",
+        "desc": "Track workouts, book classes, and manage membership through our FitLife app.",
+        "img": "https://source.unsplash.com/1600x900/?yoga%2Cmindfulness%2Ccalm&sig=7"
+      },
+      {
+        "title": "Guest Pass Program",
+        "desc": "Bring a friend with complimentary guest passes for free trial sessions.",
+        "img": "https://source.unsplash.com/1600x900/?salon%2Cbeauty%2Celegant&sig=0"
+      },
+      {
+        "title": "Referral Rewards",
+        "desc": "Earn membership credits by referring friends who join FitLife Gym.",
+        "img": "https://source.unsplash.com/1600x900/?spa%2Cwellness%2Crelaxing&sig=1"
+      }
+    ]
+  },
+  "cta": {
+    "label": "Get in Touch",
+    "buttonText": "Get in Touch"
+  }
+}
